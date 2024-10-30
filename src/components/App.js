@@ -7,6 +7,7 @@ function App() {
     learn react!
     <Header/>
     <Article />
+   
   </div>;
 }
 
